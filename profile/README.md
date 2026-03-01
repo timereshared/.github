@@ -8,3 +8,6 @@ This is the github repo for [timereshared.com](https://timereshared.com)
 
 ## Programming
 * [Project TPK](https://github.com/timereshared/project-tpk) implements a typical algorithm in multiple languages on multiple time-sharing operating systems.
+
+## Reconstructions
+* [OPL](https://github.com/timereshared/opl) - Joseph Weizenbaum's 1967 Online Programming Language on CTSS
